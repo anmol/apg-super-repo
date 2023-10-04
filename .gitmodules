@@ -1,4 +1,0 @@
-[submodule "apg-sub-repo"]
-	path = apg-sub-repo
-	url = git@github.com:anmol/apg-sub-repo
-	branch = main
